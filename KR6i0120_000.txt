@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 六菩薩亦當誦持經
+#+DATE: 2015-08-30 20:10:23.473659
+#+PROPERTY: JUAN 0
