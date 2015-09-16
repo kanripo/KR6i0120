@@ -1,22 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:10:23.281349
+#+DATE: 2015-08-30 20:10:24.065661
 #+TITLE: 六菩薩亦當誦持經
 #+PROPERTY: CBETA_ID T14n0491
 #+PROPERTY: ID KR6i0120
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 491
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@GONG
 #+PROPERTY: LASTPB <pb:KR6i0120_T_000-0752a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0120_T_001-0752a> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.491¶
-
- 六菩薩亦當誦持經¶
+No. 491¶
+六菩薩名亦當誦持¶
 ¶
-失譯附後漢錄¶
+後漢失譯¶
 
 師子戲菩薩、師子奮迅菩薩、師子幡菩薩、¶
 師子作菩薩、堅勇精進菩薩、擊金剛慧菩¶
@@ -45,7 +44,7 @@ No.491¶
 　慧如無量海，
 　灌澤諸十方，¶
 　其有聞名者，
-　除咎消諸殃，¶
+　除咎消諸欲，¶
 　歸命大智慧，
 　稽首正覺王。¶
 　巍巍十方佛，
